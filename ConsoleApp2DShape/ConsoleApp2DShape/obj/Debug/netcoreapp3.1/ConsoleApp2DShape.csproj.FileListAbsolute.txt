@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ConsoleApp2DShape\ConsoleApp2DShape\obj\Debug\netcoreapp3.1\ConsoleApp2DShape.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApp2DShape\ConsoleApp2DShape\obj\Debug\netcoreapp3.1\ConsoleApp2DShape.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp2DShape\ConsoleApp2DShape\obj\Debug\netcoreapp3.1\ConsoleApp2DShape.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConsoleApp2DShape\ConsoleApp2DShape\obj\Debug\netcoreapp3.1\ConsoleApp2DShape.AssemblyInfo.cs
+C:\Users\user\source\repos\ConsoleApp2DShape\ConsoleApp2DShape\bin\Debug\netcoreapp3.1\ConsoleApp2DShape.exe
+C:\Users\user\source\repos\ConsoleApp2DShape\ConsoleApp2DShape\bin\Debug\netcoreapp3.1\ConsoleApp2DShape.deps.json
+C:\Users\user\source\repos\ConsoleApp2DShape\ConsoleApp2DShape\bin\Debug\netcoreapp3.1\ConsoleApp2DShape.runtimeconfig.json
+C:\Users\user\source\repos\ConsoleApp2DShape\ConsoleApp2DShape\bin\Debug\netcoreapp3.1\ConsoleApp2DShape.runtimeconfig.dev.json
+C:\Users\user\source\repos\ConsoleApp2DShape\ConsoleApp2DShape\bin\Debug\netcoreapp3.1\ConsoleApp2DShape.dll
+C:\Users\user\source\repos\ConsoleApp2DShape\ConsoleApp2DShape\bin\Debug\netcoreapp3.1\ConsoleApp2DShape.pdb
+C:\Users\user\source\repos\ConsoleApp2DShape\ConsoleApp2DShape\obj\Debug\netcoreapp3.1\ConsoleApp2DShape.dll
+C:\Users\user\source\repos\ConsoleApp2DShape\ConsoleApp2DShape\obj\Debug\netcoreapp3.1\ConsoleApp2DShape.pdb
+C:\Users\user\source\repos\ConsoleApp2DShape\ConsoleApp2DShape\obj\Debug\netcoreapp3.1\ConsoleApp2DShape.genruntimeconfig.cache
