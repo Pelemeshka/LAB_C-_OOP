@@ -1,7 +1,6 @@
 ﻿using NLog;
 using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace ConsoleApp2DShape
 { 

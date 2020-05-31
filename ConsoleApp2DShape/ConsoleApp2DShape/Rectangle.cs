@@ -1,10 +1,4 @@
-﻿//using NLog;
-//using System;
-//using System.Collections.Generic;
-//using System.Data;
-//using System.Text;
-
-namespace ConsoleApp2DShape
+﻿namespace ConsoleApp2DShape
 { 
     class Rectangle : TwoDShape     // Класс прямоугольников - дочерний от класса TwoDShape
     {
