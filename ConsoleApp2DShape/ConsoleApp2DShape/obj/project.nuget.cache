@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "QMg3WrkzM4omrrCohpB3pl48yc+m+jaoRbLxiB6RfvHIjANfMA2BcmS3THm4T6jZOprZzc4VX1gNckYPLXa5MA==",
+  "dgSpecHash": "oT7flwcYSJOnUK5XXy48GfcjPuZpOWVOSARjO83hpidHgbapP+y2lChGPM6YuBmQ82B7eqbLo4vuC2HDYiyjpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\ConsoleApp2DShape\\ConsoleApp2DShape\\ConsoleApp2DShape.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\user\\Documents\\Repository\\LAB_C#_OOP\\ConsoleApp2DShape\\ConsoleApp2DShape\\ConsoleApp2DShape.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\nlog\\4.7.2\\nlog.4.7.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\nlog.config\\4.7.2\\nlog.config.4.7.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\nlog.schema\\4.7.2\\nlog.schema.4.7.2.nupkg.sha512"
+  ],
   "logs": []
 }

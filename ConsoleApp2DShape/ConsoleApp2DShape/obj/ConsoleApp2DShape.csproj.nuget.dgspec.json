@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\ConsoleApp2DShape\\ConsoleApp2DShape\\ConsoleApp2DShape.csproj": {}
+    "C:\\Users\\user\\Documents\\Repository\\LAB_C#_OOP\\ConsoleApp2DShape\\ConsoleApp2DShape\\ConsoleApp2DShape.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\ConsoleApp2DShape\\ConsoleApp2DShape\\ConsoleApp2DShape.csproj": {
+    "C:\\Users\\user\\Documents\\Repository\\LAB_C#_OOP\\ConsoleApp2DShape\\ConsoleApp2DShape\\ConsoleApp2DShape.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\ConsoleApp2DShape\\ConsoleApp2DShape\\ConsoleApp2DShape.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\Repository\\LAB_C#_OOP\\ConsoleApp2DShape\\ConsoleApp2DShape\\ConsoleApp2DShape.csproj",
         "projectName": "ConsoleApp2DShape",
-        "projectPath": "C:\\Users\\user\\source\\repos\\ConsoleApp2DShape\\ConsoleApp2DShape\\ConsoleApp2DShape.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\Repository\\LAB_C#_OOP\\ConsoleApp2DShape\\ConsoleApp2DShape\\ConsoleApp2DShape.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\ConsoleApp2DShape\\ConsoleApp2DShape\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\Repository\\LAB_C#_OOP\\ConsoleApp2DShape\\ConsoleApp2DShape\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.2, )"
+            },
+            "NLog.Config": {
+              "target": "Package",
+              "version": "[4.7.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
